@@ -4,6 +4,7 @@
 
 [![live](https://img.shields.io/badge/live-fomoth.com-00c805?style=flat-square&labelColor=0b0f0d)](https://fomoth.com)
 [![engine](https://img.shields.io/badge/engine-fomoth-00c805?style=flat-square&logo=github&logoColor=white&labelColor=0b0f0d)](https://github.com/FomothFumble/fomoth)
+[![x](https://img.shields.io/badge/x-@fomoth__fumble-00c805?style=flat-square&logo=x&logoColor=white&labelColor=0b0f0d)](https://x.com/fomoth_fumble)
 [![chains](https://img.shields.io/badge/chains-robinhood%20%7C%20solana-00c805?style=flat-square&labelColor=0b0f0d)](https://fomoth.com)
 
 </div>
